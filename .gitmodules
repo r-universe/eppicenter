@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/eppicenter/eppicenter.r-universe.dev
 	branch = HEAD
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
+[submodule "moire"]
+	path = moire
+	url = https://github.com/eppicenter/moire
