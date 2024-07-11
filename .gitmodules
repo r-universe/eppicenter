@@ -5,6 +5,9 @@
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
+[submodule "flexfit"]
+	path = flexfit
+	url = https://github.com/eppicenter/flexfit
 [submodule "moire"]
 	path = moire
 	url = https://github.com/eppicenter/moire
